@@ -1,0 +1,13 @@
+*{
+    font-family: 'Aboreto', cursive;
+font-family: 'Oswald', sans-serif;
+}
+body{
+    background-color:black;
+    color: rgb(251, 250, 251);
+    border: 2px solid black;
+}
+.pro14{
+   padding-left: 300px;
+   padding-top: 80px;
+}
